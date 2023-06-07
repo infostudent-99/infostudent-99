@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @infostudent-99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-infostudent-99/infostudent-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+file:///C:/Users/Eleonora/Desktop/PROJECT%20MATERIAL/!DOCTYPE%20article%20html.htm  
+file:///C:/Users/Eleonora/Desktop/PROJECT%20MATERIAL/!DOCTYPE%20report%20html.htm 
+file:///C:/Users/Eleonora/Desktop/PROJECT%20MATERIAL/!DOCTYPE%20about%20us%20html.htm
+
